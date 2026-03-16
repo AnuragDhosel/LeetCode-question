@@ -9,6 +9,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0125-valid-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0345-reverse-vowels-of-a-string) |
+| [0844-backspace-string-compare](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0383-ransom-note](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0844-backspace-string-compare) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +46,12 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0438-find-all-anagrams-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
