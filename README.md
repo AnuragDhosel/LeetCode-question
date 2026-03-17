@@ -21,6 +21,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0383-ransom-note](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0844-backspace-string-compare](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0844-backspace-string-compare) |
 ## Hash Table
 |  |
@@ -29,10 +30,12 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0383-ransom-note](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
 ## Queue
 |  |
 | ------- |
@@ -42,6 +45,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | ------- |
 | [0383-ransom-note](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -54,4 +58,12 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0844-backspace-string-compare) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
