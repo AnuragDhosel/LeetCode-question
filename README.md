@@ -27,6 +27,7 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -35,6 +36,7 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
 ## Queue
 |  |
@@ -43,6 +45,7 @@ This repository contains my solutions to various LeetCode problems solved during
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
@@ -61,9 +64,23 @@ This repository contains my solutions to various LeetCode problems solved during
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
+## Array
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
