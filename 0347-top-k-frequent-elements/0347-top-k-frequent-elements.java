@@ -1,3 +1,15 @@
+class Element implements Comparable<Element>{
+    int num;
+    int freq;
+    Element(int num , int freq){
+        this.num = num;
+        this.freq = freq;
+    }
+    public int compareTo(Element that){
+        return that.freq - this.freq; // decreasing order
+    }
+}
+
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
         HashMap<Integer , Integer> map = new HashMap<>();
@@ -7,18 +19,16 @@ class Solution {
             else map.put(nums[i] , map.get(nums[i]) + 1);
         }
 
+        PriorityQueue<Element> pq = new PriorityQueue<>();
+        for(int key : map.keySet()){
+            Element elem = new Element(key , map.get(key));
+            pq.add(elem);
+        }
+
         int [] ans = new int[k];
         for(int i=0; i<k; i++){
-            int maxFreq = 0;
-            int ele = -1;
-            for(int key : map.keySet()){
-                if(map.get(key) > maxFreq){
-                    maxFreq = map.get(key);
-                    ele = key;
-                }
-            }
-            ans[i] = ele;
-            map.remove(ele);
+            Element ele = pq.poll();
+            ans[i] = ele.num;
         }
 
         return ans;
