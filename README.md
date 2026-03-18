@@ -38,6 +38,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0242-valid-anagram](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0502-ipo) |
 ## Queue
 |  |
 | ------- |
@@ -66,6 +67,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0502-ipo) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -75,6 +77,7 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0502-ipo) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,4 +86,8 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0502-ipo](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0502-ipo) |
 <!---LeetCode Topics End-->
