@@ -96,4 +96,12 @@ This repository contains my solutions to various LeetCode problems solved during
 | ------- |
 | [0409-longest-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0502-ipo) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
