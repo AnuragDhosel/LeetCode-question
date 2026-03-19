@@ -22,6 +22,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0383-ransom-note](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0844-backspace-string-compare](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0844-backspace-string-compare) |
@@ -34,6 +35,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0383-ransom-note](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
@@ -58,6 +60,7 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Stack
 |  |
