@@ -113,4 +113,16 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0050-powx-n) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
