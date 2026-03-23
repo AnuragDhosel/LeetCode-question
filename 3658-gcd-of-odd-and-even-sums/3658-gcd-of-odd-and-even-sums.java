@@ -3,8 +3,6 @@ class Solution {
         long sumEven = n*(n+1);
         long sumOdd = (long)(n * n);
 
-        System.out.println(sumEven + " " + sumOdd);
-
         return gcd(sumEven , sumOdd);
     }
     public int gcd(long a , long b){
