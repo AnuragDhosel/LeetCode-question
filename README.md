@@ -113,6 +113,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0050-powx-n](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0050-powx-n) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AnuragDhosel/LeetCode-question/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -133,4 +134,5 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AnuragDhosel/LeetCode-question/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
