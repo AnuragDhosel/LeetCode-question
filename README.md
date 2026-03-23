@@ -93,6 +93,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0502-ipo) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -111,6 +112,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | ------- |
 | [0050-powx-n](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0050-powx-n) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
@@ -127,4 +129,8 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0543-diameter-of-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
