@@ -1,7 +1,6 @@
 class Solution {
     public boolean closeStrings(String s1, String s2) {
         if(s1.length() !=  s2.length()) return false;
-        if(isNotSameChar(s1 , s2)) return false;
         
         int [] freq1 = new int[26]; 
         int [] freq2 = new int[26];
@@ -13,6 +12,13 @@ class Solution {
             freq2[c2-'a']++;
         } 
 
+        // character exists in word2 but not in word1 ❌
+        // character exists in word1 but not in word2 ❌
+        for(int i=0; i<25; i++){
+            if((freq2[i] != 0 && freq1[i] == 0)||(freq1[i] != 0 && freq2[i] == 0)){
+                return false;
+            }
+        }
         Arrays.sort(freq1);
         Arrays.sort(freq2);
 
@@ -21,15 +27,5 @@ class Solution {
         }
 
         return true;     
-    }
-    public boolean isNotSameChar(String s , String t){
-        HashSet<Character> set = new HashSet<>();
-
-        for(int i=0; i<s.length(); i++) set.add(s.charAt(i));
-
-        for(int i=0; i<t.length(); i++){
-            if(!set.contains(t.charAt(i))) return true;
-        }
-        return false;
     }
 }
