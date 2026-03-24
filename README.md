@@ -6,6 +6,7 @@ This repository contains my solutions to various LeetCode problems solved during
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0345-reverse-vowels-of-a-string) |
@@ -16,6 +17,7 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0125-valid-palindrome) |
@@ -140,4 +142,8 @@ This repository contains my solutions to various LeetCode problems solved during
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AnuragDhosel/LeetCode-question/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
