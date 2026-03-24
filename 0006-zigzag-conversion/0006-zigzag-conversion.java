@@ -13,19 +13,21 @@ class Solution {
             while(idx < s.length()){
                 sb.append(s.charAt(idx));
 
-                if(i == 0){
+                if(i == 0){ // only lower value add
                     idx += lowerAdd;
                 }
-                else if(i == k-1){
+                else if(i == k-1){ // only upper value add
                     idx += upperAdd;
                 }
-                else if(goingLower){
-                    idx += lowerAdd;
-                    goingLower = false;
-                }
-                else if(!goingLower){
-                    idx += upperAdd;
-                    goingLower = true;
+                else{ // i between start and last
+                    if(goingLower){
+                        idx += lowerAdd;
+                        goingLower = false;
+                    }
+                    else{ // going lower is false
+                        idx += upperAdd;
+                        goingLower = true;
+                    }
                 }
             }
         }
