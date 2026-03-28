@@ -137,16 +137,19 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0098-validate-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0098-validate-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0098-validate-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0543-diameter-of-binary-tree) |
 ## Number Theory
 |  |
@@ -162,4 +165,8 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
