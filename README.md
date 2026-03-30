@@ -34,6 +34,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0424-longest-repeating-character-replacement](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0680-valid-palindrome-ii) |
@@ -168,6 +169,7 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0459-repeated-substring-pattern) |
 ## Binary Search Tree
 |  |
 | ------- |
