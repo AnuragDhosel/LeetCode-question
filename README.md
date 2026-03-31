@@ -26,6 +26,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0383-ransom-note) |
@@ -170,6 +171,7 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1392-longest-happy-prefix) |
 ## Binary Search Tree
@@ -180,9 +182,11 @@ This repository contains my solutions to various LeetCode problems solved during
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
