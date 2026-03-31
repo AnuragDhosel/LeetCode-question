@@ -40,6 +40,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0680-valid-palindrome-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0844-backspace-string-compare) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1392-longest-happy-prefix](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1392-longest-happy-prefix) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
@@ -170,9 +171,18 @@ This repository contains my solutions to various LeetCode problems solved during
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1392-longest-happy-prefix) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0099-recover-binary-search-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
