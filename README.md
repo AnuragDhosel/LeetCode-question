@@ -39,6 +39,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0567-permutation-in-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0844-backspace-string-compare) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1392-longest-happy-prefix](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1392-longest-happy-prefix) |
@@ -173,6 +174,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1392-longest-happy-prefix) |
 ## Binary Search Tree
 |  |
