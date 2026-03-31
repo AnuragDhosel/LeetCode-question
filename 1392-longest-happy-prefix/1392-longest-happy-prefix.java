@@ -1,5 +1,11 @@
 class Solution {
     public String longestPrefix(String s) {
+        int [] lps = calculateLPS(s);
+
+        int l = lps[lps.length - 1];
+        return s.substring(0 , l);
+    }
+    public int[] calculateLPS(String s){
         int [] lps = new int[s.length()];
 
         int i = 1;
@@ -15,8 +21,6 @@ class Solution {
                 else i++;
             }
         }
-
-        int l = lps[lps.length - 1];
-        return s.substring(0 , l);
+        return lps;
     }
 }
