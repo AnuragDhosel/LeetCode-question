@@ -1,20 +1,30 @@
 class Solution {
     public boolean repeatedSubstringPattern(String s) {
+        int [] lps = calculateLPS(s);
+
         int n = s.length();
-        for(int i=1; i<=n/2; i++){
-            if(n % i == 0){
-                String sub = s.substring(0 , i);
-                int j = i;
-                while(j < n){
-                    String sub2 = s.substring(j , j+i);
-                    if(sub.equals(sub2)){
-                        j += i;
-                    }
-                    else break;
-                }
-                if(j >= n) return true;
-            }
+        int patternLength = n - lps[n-1];
+        if(lps[n-1] > 0 && (n % patternLength == 0)){
+            return true;
         }
         return false;
+    }
+    public int [] calculateLPS(String s){
+        int [] lps = new int[s.length()];
+
+        int i = 1;
+        int len = 0;
+        while(i < s.length()){
+            if(s.charAt(i) == s.charAt(len)){
+                len++;
+                lps[i] = len;
+                i++;
+            }
+            else{
+                if(len != 0) len = lps[len-1];
+                else i++;
+            }
+        }
+        return lps;
     }
 }
