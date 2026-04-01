@@ -3,20 +3,58 @@ class Solution {
         StringBuilder sb = new StringBuilder();
         int count = 0;
 
-        // Step 1: Keep appending until length >= b
         while(sb.length() < b.length()){
             sb.append(a);
             count++;
         }
 
-        // Step 2: Check
-        if(sb.indexOf(b) != -1) return count;
+        if(check_AcontainsB_usingKMP(sb , b)){
+            return count;
+        }
 
-        // Step 3: One more append (important case)
         sb.append(a);
         count++;
-        if(sb.indexOf(b) != -1) return count;
+        if(check_AcontainsB_usingKMP(sb , b)){
+            return count;
+        }
 
         return -1;
+    }
+
+    public boolean check_AcontainsB_usingKMP(StringBuilder txt , String pat){
+        int [] lps = calculateLPS(pat);
+
+        int i = 0;
+        int j = 0;
+        while(i < txt.length()){
+            if(txt.charAt(i) == pat.charAt(j)){
+                i++;
+                j++;
+                if(j == pat.length()) return true;
+            }
+            else{
+                if(j != 0) j = lps[j - 1];
+                else i++;
+            }
+        }
+        return false;
+    }
+    public int[] calculateLPS(String s){
+        int [] lps = new int[s.length()];
+
+        int i = 1;
+        int len = 0;
+        while(i < s.length()){
+            if(s.charAt(i) == s.charAt(len)){
+                len++;
+                lps[i] = len;
+                i++;
+            }
+            else{
+                if(len != 0) len = lps[len - 1];
+                else i++;
+            }
+        }
+        return lps;
     }
 }
