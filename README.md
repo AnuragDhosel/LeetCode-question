@@ -45,6 +45,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1392-longest-happy-prefix](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1392-longest-happy-prefix) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1657-determine-if-two-strings-are-close) |
+| [1668-maximum-repeating-substring](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1668-maximum-repeating-substring) |
 | [1768-merge-strings-alternately](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -169,6 +170,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0647-palindromic-substrings) |
+| [1668-maximum-repeating-substring](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -178,6 +180,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0686-repeated-string-match](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1392-longest-happy-prefix) |
+| [1668-maximum-repeating-substring](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1668-maximum-repeating-substring) |
 ## Binary Search Tree
 |  |
 | ------- |
