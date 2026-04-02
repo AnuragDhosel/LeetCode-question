@@ -1,37 +1,45 @@
 class Solution {
     public boolean buddyStrings(String s, String goal) {
         if(s.length() != goal.length()) return false;
-        int n = s.length();
 
-        HashSet<Character> set = new HashSet<>();
-        ArrayList<Integer> list = new ArrayList<>();
-        int idx = 0;
+        // if strings are equal :- abab/abab , aaa/aaa , ab/ab , abcd/abcd
+        if(s.equals(goal)){
+            // check any character may occcurs more than 1 time -> then it same 
+            int [] freq = new int[26];
+            
+            for(int i=0; i<s.length(); i++){
+                char c = s.charAt(i);
+                freq[c-'a']++;
+                if(freq[c-'a'] > 1){ // it contain same char , still same -> swap
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        // if string are mismatched
+        int first = -1 , second = -1;
         for(int i=0; i<s.length(); i++){
-            set.add(s.charAt(i));
             if(s.charAt(i) != goal.charAt(i)){
-                list.add(i);
+                if(first == -1){
+                    first = i;
+                }
+                else if(second == -1){
+                    second = i;
+                }
+                else{
+                    return false;
+                }
             }
         }
 
-        if(list.size() != 2 && list.size() != 0) return false;
-
-        if(list.size() == 2){
-            int a = list.get(0);
-            int b = list.get(1);
-            if(s.charAt(a) == goal.charAt(b) && s.charAt(b) == goal.charAt(a)) return true;
-            else return false;
-        }
-        else if(list.size() == 0){
-            if(set.size() == s.length()){ // abcd/abcd , ab/ab , abc/abc
-                return false;
-            }
-            else if(set.size() == 0){ // aaa/aaa  , aa/aa
+        // check mismatched
+        if(second != -1 &&
+            s.charAt(first) == goal.charAt(second) && 
+            s.charAt(second) == goal.charAt(first)
+            ){
                 return true;
             }
-            else{ // aba/aba , abab/abab
-                return true;
-            }
-        }
-        return true;
+        return false;  
     }
 }
