@@ -3,16 +3,14 @@ class Solution {
         ArrayList<String> Slist = findAllSubstring(s);
         ArrayList<String> Tlist = findAllSubstring(t);      
 
-        System.out.println(Slist);
-        System.out.println(Tlist);
-
-        // check equal or not
+        // compare all substring
         int count = 0;
         for(int i=0; i<Slist.size(); i++){
             String t_ns = Slist.get(i);
 
             for(int j=0; j<Tlist.size(); j++){
                 String s_ns = Tlist.get(j);
+                
                 if(t_ns.length() == s_ns.length()){
                     if(checkDifferent(t_ns , s_ns) == 1){
                         count++;
