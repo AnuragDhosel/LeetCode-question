@@ -149,6 +149,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0094-binary-tree-inorder-traversal](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -156,6 +157,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0094-binary-tree-inorder-traversal](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -163,6 +165,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0094-binary-tree-inorder-traversal](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0543-diameter-of-binary-tree) |
 ## Number Theory
 |  |
@@ -205,4 +208,8 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1638-count-substrings-that-differ-by-one-character) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
