@@ -18,7 +18,8 @@ class Solution {
             if((freq2[i] != 0 && freq1[i] == 0)||(freq1[i] != 0 && freq2[i] == 0)){
                 return false;
             }
-        }
+        } // s1 = "aab", s2 = "ccd" -> to check this string
+        
         Arrays.sort(freq1);
         Arrays.sort(freq2);
 
