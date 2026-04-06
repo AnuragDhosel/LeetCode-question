@@ -12,7 +12,7 @@ class Solution {
             i++;
         }
 
-        // 2. handle  sign
+        // 2. handle sign
         boolean isNeg = false;
         if(i<n && (s.charAt(i) == '-' || s.charAt(i) == '+')){ // + added for +1 tastcase
             if(s.charAt(i) == '-') isNeg = true;
@@ -20,19 +20,18 @@ class Solution {
         }
 
         // handle digit
-        int num = 0;
+        long num = 0;
         while(i<n && (s.charAt(i) >= '0' && s.charAt(i) <= '9') ){
-            int digit = s.charAt(i) - '0';
-
-            // Overflow check
-            if((num > Integer.MAX_VALUE / 10) || (num == Integer.MAX_VALUE/10 && digit>7)){
-                return isNeg ? Integer.MIN_VALUE : Integer.MAX_VALUE;
-            }
-
+            long digit = s.charAt(i) - '0';
             num = num*10 + digit;
+
+            // Overflow check (imp)
+            if(!isNeg && num > Integer.MAX_VALUE) return Integer.MAX_VALUE;
+            else if(isNeg && num > (long)Integer.MAX_VALUE+1) return Integer.MIN_VALUE;
+            
             i++;
         }
 
-        return isNeg ? -num : num;
+        return isNeg ? -(int)num : (int)num;
     }
 }
