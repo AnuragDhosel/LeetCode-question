@@ -1,9 +1,10 @@
 class Solution {
     public String reverseWords(String s) {
-        String tr = s.trim();
+        String tr = s.trim(); // remove leading and trailing whitespace from a string
 
         ArrayList<StringBuilder> list = new ArrayList<>();
-        for(int i=0; i<s.length(); i++){
+        int i = 0;
+        while(i<s.length()){
             if(s.charAt(i) != ' '){
                 StringBuilder temp = new StringBuilder();
                 int j = i;
@@ -14,12 +15,13 @@ class Solution {
                 list.add(temp);
                 i = j;
             }
+            i++;
         }
         
         StringBuilder sb = new StringBuilder();
-        for(int i=list.size()-1; i>=0; i--){
-            sb.append(list.get(i));
-            if(i != 0) sb.append(' ');
+        for(int x=list.size()-1; x>=0; x--){
+            sb.append(list.get(x));
+            if(x != 0) sb.append(' ');
         }
 
         return sb.toString();
