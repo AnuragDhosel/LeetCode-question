@@ -4,15 +4,17 @@ class Solution {
 
         for(int i=0; i<strs.length; i++){
             String s = strs[i];
+
+            // Step 1: convert to char array and sort
             char [] arr = s.toCharArray();
             Arrays.sort(arr);
 
+            // Step 2: make key
             StringBuilder sb = new StringBuilder();
-            for(int j=0; j<arr.length; j++){
-                sb.append(arr[j]);
-            }
+            for(int j=0; j<arr.length; j++) sb.append(arr[j]);
             String s2 = sb.toString();
 
+            // Step 3: insert into hashmap 
             if(!map.containsKey(s2)){
                 List<String> list = new ArrayList<>();
                 list.add(strs[i]);
