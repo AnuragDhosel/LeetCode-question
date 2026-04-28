@@ -63,6 +63,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0424-longest-repeating-character-replacement](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0567-permutation-in-string) |
 | [0859-buddy-strings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0859-buddy-strings) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1638-count-substrings-that-differ-by-one-character) |
@@ -99,6 +100,7 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -120,6 +122,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | ------- |
 | [0049-group-anagrams](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0502-ipo) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
@@ -222,4 +225,8 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0101-symmetric-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
