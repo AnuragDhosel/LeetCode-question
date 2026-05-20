@@ -1,64 +1,22 @@
-// optimise
 class Solution {
     public int largestRectangleArea(int[] heights) {
-        int [] NSEidx = nextSmallerElementIdx(heights);
-        int [] PSEidx = previousSmallerElementIdx(heights);
-
-        System.out.println(Arrays.toString(NSEidx));
-        System.out.println(Arrays.toString(PSEidx));
+        Stack<Integer> st = new Stack<>();
+        int n = heights.length;
 
         int maxArea = 0;
-        for(int i=0; i<heights.length; i++){
-            int width = NSEidx[i] - PSEidx[i] - 1;
-            int currArea = heights[i] * width;
-            maxArea = Math.max(maxArea , currArea);
+        for(int i=0; i<=n; i++){
+
+            while(!st.isEmpty() && (i == n || heights[i] < heights[st.peek()])){
+                int height = heights[st.pop()];
+
+                int NSE = i;
+                int PSE = st.isEmpty() ? -1 : st.peek();
+                int width = NSE - PSE - 1;
+
+                maxArea = Math.max(maxArea , height * width); 
+            }
+            st.push(i);
         }
         return maxArea;
-    }
-    public int[] nextSmallerElementIdx(int [] arr){
-        Stack<Integer> st = new Stack();
-        HashMap<Integer , Integer> map = new HashMap<>();
-        
-        for(int i=0; i<arr.length; i++){
-            int ele = arr[i];
-            while(!st.isEmpty() && ele < arr[st.peek()]){
-                map.put(st.pop() , i);
-            }
-            st.push(i);
-        }
-
-        while(!st.isEmpty()){
-            map.put(st.pop() , arr.length);
-        }
-
-        int [] ans = new int[arr.length];
-        for(int i=0; i<arr.length; i++){
-            ans[i] = map.get(i);
-        }
-        
-        return ans;
-    }
-    public int[] previousSmallerElementIdx(int [] arr){
-        Stack<Integer> st = new Stack();
-        HashMap<Integer , Integer> map = new HashMap<>();
-        
-        for(int i=arr.length-1; i>=0; i--){
-            int ele = arr[i];
-            while(!st.isEmpty() && ele < arr[st.peek()]){
-                map.put(st.pop() , i);
-            }
-            st.push(i);
-        }
-
-        while(!st.isEmpty()){
-            map.put(st.pop() , -1);
-        }
-
-        int [] ans = new int[arr.length];
-        for(int i=0; i<arr.length; i++){
-            ans[i] = map.get(i);
-        }
-        
-        return ans;
     }
 }
