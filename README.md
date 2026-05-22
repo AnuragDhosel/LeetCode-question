@@ -25,6 +25,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0008-string-to-integer-atoi](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0151-reverse-words-in-a-string) |
@@ -101,6 +102,7 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0496-next-greater-element-i) |
@@ -195,6 +197,7 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0032-longest-valid-parentheses) |
 | [0647-palindromic-substrings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0647-palindromic-substrings) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1668-maximum-repeating-substring](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1668-maximum-repeating-substring) |
