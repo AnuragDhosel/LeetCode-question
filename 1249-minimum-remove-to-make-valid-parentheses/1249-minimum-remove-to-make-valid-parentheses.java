@@ -13,8 +13,9 @@ class Solution {
             }
         }
 
-        int [] arr = new int[st.size()]; // store idx of unwanted '(' or ')'
-        int idx = arr.length-1;
+        int n = st.size();
+        int [] arr = new int[n]; // store idx of unwanted '(' or ')'
+        int idx = n-1;
         while(!st.isEmpty()){
             arr[idx--] = st.pop();
         }
