@@ -23,6 +23,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0005-longest-palindromic-substring](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0125-valid-palindrome) |
@@ -99,6 +100,7 @@ This repository contains my solutions to various LeetCode problems solved during
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0496-next-greater-element-i) |
