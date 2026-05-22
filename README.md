@@ -47,6 +47,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0844-backspace-string-compare](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0859-buddy-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1392-longest-happy-prefix) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1657-determine-if-two-strings-are-close) |
@@ -109,6 +110,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0503-next-greater-element-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0844-backspace-string-compare) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Simulation
 |  |
 | ------- |
