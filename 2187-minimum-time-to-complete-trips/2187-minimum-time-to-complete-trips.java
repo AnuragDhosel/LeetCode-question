@@ -1,7 +1,5 @@
 class Solution {
     public long minimumTime(int[] time, int totalTrips) {
-        // if(time.length == 1) return time[0] * totalTrips;
-
         long st = 1;
         long end = minimumValue(time) * totalTrips;
         long ans = 0;
