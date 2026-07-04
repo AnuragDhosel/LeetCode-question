@@ -4,8 +4,11 @@ class Solution {
             return -1;
         }
 
-        int st = 1;
-        int end = maximumElement(bloomDay); // max element jitne day me sale flower bloom ho jayege
+// no bouquet can be made before the minimum bloom day
+        int st = minimumElement(bloomDay);
+// By the maximum bloom day, all flowers will have bloomed.        
+        int end = maximumElement(bloomDay);
+
         int ans = -1;
 
         while(st <= end){
@@ -24,15 +27,6 @@ class Solution {
 
         return ans;
     }
-
-    public int maximumElement(int [] arr){
-        int max = 0;
-        for(int i=0; i<arr.length; i++){
-            max = Math.max(max , arr[i]);
-        }
-        return max;
-    }
-
 
 // dth day me kitne bouquet ban payege, agar 1 bouquet banne me k phool lagte hain , 
 // or ith phool ko khilne me bloomDay[i] day lagte hain 
@@ -53,5 +47,21 @@ class Solution {
         }
 
         return bouquet;
+    }
+
+    public int maximumElement(int [] arr){
+        int max = Integer.MIN_VALUE;
+        for(int i=0; i<arr.length; i++){
+            max = Math.max(max , arr[i]);
+        }
+        return max;
+    }
+
+    public int minimumElement(int [] arr){
+        int min = Integer.MAX_VALUE;
+        for(int i=0; i<arr.length; i++){
+            min = Math.min(min , arr[i]);
+        }
+        return min;
     }
 }
