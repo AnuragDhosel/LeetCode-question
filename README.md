@@ -141,6 +141,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0503-next-greater-element-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2187-minimum-time-to-complete-trips) |
@@ -229,6 +230,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0098-validate-binary-search-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0099-recover-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2187-minimum-time-to-complete-trips](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2187-minimum-time-to-complete-trips) |
 ## Rolling Hash
