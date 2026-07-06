@@ -24,14 +24,12 @@ class Solution {
 
     public int calculateDaysRequired(int [] weights , int shipCapi){
         int takeDays = 1;
-        int sum = 0;
+        int load = 0;
         for(int i=0; i<weights.length; i++){
-            if(sum + weights[i] <= shipCapi){
-                sum += weights[i];
-            }
-            else{
+            load += weights[i];
+            if(load > shipCapi){
                 takeDays++;
-                sum = weights[i];
+                load = weights[i];
             }
         }            
         
