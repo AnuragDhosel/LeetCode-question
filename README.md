@@ -136,6 +136,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0049-group-anagrams](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0347-top-k-frequent-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0503-next-greater-element-ii) |
@@ -159,6 +160,7 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0502-ipo) |
 | [0680-valid-palindrome-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0680-valid-palindrome-ii) |
 ## Math
@@ -213,6 +215,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0032-longest-valid-parentheses) |
+| [0410-split-array-largest-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0647-palindromic-substrings) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1668-maximum-repeating-substring](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1668-maximum-repeating-substring) |
@@ -231,6 +234,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0099-recover-binary-search-tree) |
+| [0410-split-array-largest-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -271,4 +275,8 @@ This repository contains my solutions to various LeetCode problems solved during
 | [1068-product-sales-analysis-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1068-product-sales-analysis-i) |
 | [1280-students-and-examinations](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
