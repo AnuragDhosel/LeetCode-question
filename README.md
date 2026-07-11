@@ -149,6 +149,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [1539-kth-missing-positive-number](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2187-minimum-time-to-complete-trips) |
+| [2951-find-the-peaks](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2951-find-the-peaks) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -258,6 +259,7 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1638-count-substrings-that-differ-by-one-character) |
+| [2951-find-the-peaks](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2951-find-the-peaks) |
 ## Breadth-First Search
 |  |
 | ------- |
