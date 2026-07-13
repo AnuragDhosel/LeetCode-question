@@ -144,6 +144,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0503-next-greater-element-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -243,6 +244,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
