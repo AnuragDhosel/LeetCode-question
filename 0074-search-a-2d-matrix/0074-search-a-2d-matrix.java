@@ -3,16 +3,25 @@ class Solution {
         int c = matrix.length;
         int r = matrix[0].length;
 
+        int st = 0;
+        int end = c-1;
         int ansC = 0;
-        for(int i=0; i<c; i++){
-            if(matrix[i][r-1] < target){
-                ansC++;
+
+        while(st <= end){
+            int mid = st + (end - st)/2;
+
+            if(matrix[mid][0] <= target){
+                ansC = mid;
+                st = mid + 1;
+            }
+            else{
+                end = mid - 1;
             }
         }
-        if(ansC == c) return false;
 
-        int st = 0;
-        int end = r-1;
+
+        st = 0;
+        end = r-1;
         while(st <= end){
             int mid = st + (end - st)/2;
 
