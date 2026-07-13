@@ -9,13 +9,25 @@ class Solution {
                 ansC++;
             }
         }
+        if(ansC == c) return false;
 
-        for(int i=0; i<r; i++){
-            if(ansC < c && matrix[ansC][i] == target){
+        int st = 0;
+        int end = r-1;
+        while(st <= end){
+            int mid = st + (end - st)/2;
+
+            if(matrix[ansC][mid] == target){
                 return true;
+            }
+            else if(matrix[ansC][mid] > target){
+                end = mid - 1;
+            }
+            else{ // matrix[ansC][mid] < target
+                st = mid + 1;
             }
         }
 
         return false;
+
     }
 }
