@@ -152,6 +152,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2187-minimum-time-to-complete-trips) |
 | [2951-find-the-peaks](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2951-find-the-peaks) |
@@ -255,6 +256,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1901-find-a-peak-element-ii) |
 | [2187-minimum-time-to-complete-trips](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2187-minimum-time-to-complete-trips) |
 ## Rolling Hash
 |  |
@@ -300,4 +302,5 @@ This repository contains my solutions to various LeetCode problems solved during
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
