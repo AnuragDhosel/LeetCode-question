@@ -160,6 +160,7 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
@@ -308,5 +309,6 @@ This repository contains my solutions to various LeetCode problems solved during
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
