@@ -179,6 +179,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0050-powx-n](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0231-power-of-two) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AnuragDhosel/LeetCode-question/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -187,6 +188,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | ------- |
 | [0050-powx-n](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0231-power-of-two) |
 ## Tree
 |  |
 | ------- |
@@ -303,4 +305,8 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0074-search-a-2d-matrix](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1901-find-a-peak-element-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
