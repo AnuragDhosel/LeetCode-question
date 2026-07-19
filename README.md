@@ -177,6 +177,7 @@ This repository contains my solutions to various LeetCode problems solved during
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0227-basic-calculator-ii) |
@@ -309,6 +310,7 @@ This repository contains my solutions to various LeetCode problems solved during
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
