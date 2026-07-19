@@ -4,10 +4,6 @@ class Solution {
             return Integer.MAX_VALUE;
         }
 
-        // boolean negative = false;
-        // if((dividend < 0 && divisor > 0) || (dividend > 0 && divisor < 0)){
-        //     negative = true;
-        // }
         boolean negative = (dividend < 0) ^ (divisor < 0);
 
         long m = Math.abs((long) dividend);
@@ -29,3 +25,8 @@ class Solution {
 
 // (n << (count + 1)) => n * (long)Math.pow(2 , count+1)
 // 1 << count => (long)Math.pow(2 , count)
+
+// boolean negative = false;
+// if((dividend < 0 && divisor > 0) || (dividend > 0 && divisor < 0)) negative = true;
+//                        ↓
+// boolean negative = (dividend < 0) ^ (divisor < 0);
