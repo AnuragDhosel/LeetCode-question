@@ -1,13 +1,13 @@
 class Solution {
     public int divide(int dividend, int divisor) {
-        if(divisor == 1){
-            return dividend;
-        }
         // overflow check , 
         // int min value = -2^31 , Math.abs(-2^31) => 2^31
         // which is overflow , bcz int max value is 2^31 - 1
         if(dividend == Integer.MIN_VALUE && divisor == -1){
             return Integer.MAX_VALUE;
+        }
+        if(divisor == 1){
+            return dividend;
         }
 
         long m = Math.abs((long) dividend);
