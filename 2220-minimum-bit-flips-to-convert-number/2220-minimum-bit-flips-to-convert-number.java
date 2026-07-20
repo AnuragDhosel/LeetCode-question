@@ -25,8 +25,8 @@ class Solution {
     public StringBuilder convertToBinary(int num){
         StringBuilder sb = new StringBuilder();
 
-        if (num == 0)
-            return sb.append('0');
+        // if (num == 0)
+        //     return sb.append('0');
 
         while(num > 0){
             sb.append(num % 2);
