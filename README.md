@@ -138,6 +138,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0074-search-a-2d-matrix](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0198-house-robber](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0410-split-array-largest-sum) |
@@ -233,6 +234,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0005-longest-palindromic-substring](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0647-palindromic-substrings) |
