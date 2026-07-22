@@ -4,19 +4,22 @@ class Solution {
 
         if(n == 1) return nums[0];
 
-        int [] dp = new int[n + 1];
-        // dp[i] = max stolen money till i house
+        // int [] dp = new int[n + 1];
+        // // dp[i] = max stolen money till i house
 
-        dp[0] = 0; // when no house selected
-        dp[1] = nums[0]; // when one house selected
+        int last_prev = 0;  // dp[0] = 0; -> when no house selected
+        int curr_prev = nums[0]; // dp[1] = nums[0]; -> when one house selected
 
         for(int i=2; i<=n; i++){
-            int pick = nums[i-1] + dp[i-2];
-            int skip = dp[i-1];
+            int pick = nums[i-1] + last_prev;
+            int skip = curr_prev;
 
-            dp[i] = Math.max(pick , skip);
+            int curr = Math.max(pick , skip);
+
+            last_prev = curr_prev;
+            curr_prev = curr;
         }
 
-        return dp[n];
+        return curr_prev;
     }
 }
