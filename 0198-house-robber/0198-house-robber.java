@@ -1,20 +1,22 @@
 class Solution {
-    public int solve(int [] nums , int i , int [] dp){
-        if(i >= nums.length) return 0;
-
-        if(dp[i] != -1) return dp[i];
-
-        int pick = nums[i] + solve(nums , i+2 , dp);
-        int skip = solve(nums , i+1 , dp);
-
-        dp[i] = Math.max(pick , skip);
-        
-        return dp[i];
-    }
     public int rob(int[] nums) {
-        int [] dp = new int[nums.length];
-        Arrays.fill(dp , -1);
-        
-        return solve(nums , 0 , dp);
+        int n = nums.length;
+
+        if(n == 1) return nums[0];
+
+        int [] dp = new int[n + 1];
+        // dp[i] = max stolen money till i house
+
+        dp[0] = 0; // when no house selected
+        dp[1] = nums[0]; // when one house selected
+
+        for(int i=2; i<=n; i++){
+            int pick = nums[i-1] + dp[i-2];
+            int skip = dp[i-1];
+
+            dp[i] = Math.max(pick , skip);
+        }
+
+        return dp[n];
     }
 }
