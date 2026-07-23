@@ -1,7 +1,6 @@
 class Solution {
     public int rob(int[] nums) {
         int n = nums.length;
-
         if(n == 1) return nums[0];
 
         int [] dp = new int[n+1];
@@ -19,9 +18,9 @@ class Solution {
         for(int i=2; i<=size; i++){
             int pick = nums[i-1] + dp[i-2];
             int skip = dp[i-1];
+
             dp[i] = Math.max(pick , skip);
         }
-        System.out.println(Arrays.toString(dp));
 
         return dp[size];
     }
@@ -33,9 +32,9 @@ class Solution {
         for(int i=2; i<=size; i++){
             int pick = nums[i-1] + dp[i-2];
             int skip = dp[i-1];
+
             dp[i] = Math.max(pick , skip);
         }
-        System.out.println(Arrays.toString(dp));
 
         return dp[size];
     } 
