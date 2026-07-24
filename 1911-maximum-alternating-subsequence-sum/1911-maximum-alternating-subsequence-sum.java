@@ -1,5 +1,5 @@
 class Solution {
-    long [][] dp = new long[100001][2];
+    long [][] dp;
 
     public long solve(int [] nums , int i , boolean isEven){
         if(i >= nums.length) return 0;
@@ -19,6 +19,8 @@ class Solution {
     }
 
     public long maxAlternatingSum(int[] nums) {
+        dp = new long[nums.length + 1][2];
+
         for(int i=0; i<dp.length; i++){
             Arrays.fill(dp[i] , -1);
         }
