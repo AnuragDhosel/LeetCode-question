@@ -155,6 +155,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1901-find-a-peak-element-ii) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2187-minimum-time-to-complete-trips) |
 | [2951-find-the-peaks](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2951-find-the-peaks) |
@@ -242,6 +243,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0647-palindromic-substrings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0647-palindromic-substrings) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1668-maximum-repeating-substring](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1668-maximum-repeating-substring) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## String Matching
 |  |
 | ------- |
