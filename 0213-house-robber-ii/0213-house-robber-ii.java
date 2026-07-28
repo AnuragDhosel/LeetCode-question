@@ -1,44 +1,31 @@
 class Solution {
+    int [] dp;
     public int rob(int[] nums) {
         int n = nums.length;
         if(n == 1) return nums[0];
 
-        int taking_0th_idx = solve1(nums , n-1);
-        int taking_last_idx = solve2(nums , n);
+        dp = new int[n+1];
+        Arrays.fill(dp , -1);
+        
+        // take 0th idx element but not take last element
+        int taking_0th_idxEle = solve(nums , 0 , n-2);
 
-        return Math.max(taking_0th_idx , taking_last_idx);
+        Arrays.fill(dp , -1);
+        // take last idx element but not take 0th idx element
+        int taking_last_idxEle = solve(nums , 1 , n-1);
+
+        return Math.max(taking_0th_idxEle , taking_last_idxEle);
     }
-    public int solve1(int [] nums , int size){
-        int prevPrev = 0;
-        int prev = nums[0]; // take 1st house
+    public int solve(int [] nums , int i , int size){
+        if(i > size) return 0;
 
-        for(int i=2; i<=size; i++){
-            int pick = nums[i-1] + prevPrev;
-            int skip = prev;
+        if(dp[i] != -1) return dp[i];
 
-            int curr = Math.max(pick , skip);
+        int pick = nums[i] + solve(nums , i+2 , size);
+        int skip = solve(nums , i+1 , size);
 
-            prevPrev = prev;
-            prev = curr;
-        }
+        dp[i] = Math.max(pick , skip);
 
-        return prev;
+        return dp[i];
     }
-
-    public int solve2(int [] nums , int size){
-        int prevPrev = 0;
-        int prev = 0; // skip 1st house
-
-        for(int i=2; i<=size; i++){
-            int pick = nums[i-1] + prevPrev;
-            int skip = prev;
-
-            int curr = Math.max(pick , skip);
-
-            prevPrev = prev;
-            prev = curr;
-        }
-
-        return prev;
-    } 
 }
