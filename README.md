@@ -27,6 +27,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0214-shortest-palindrome) |
@@ -240,6 +241,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0032-longest-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0213-house-robber-ii) |
