@@ -186,6 +186,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | ------- |
 | [0029-divide-two-integers](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0227-basic-calculator-ii) |
@@ -240,6 +241,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0005-longest-palindromic-substring](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0152-maximum-product-subarray) |
@@ -337,4 +339,8 @@ This repository contains my solutions to various LeetCode problems solved during
 | ------- |
 | [0070-climbing-stairs](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
