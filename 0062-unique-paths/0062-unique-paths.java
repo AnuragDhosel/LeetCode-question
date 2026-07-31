@@ -4,7 +4,7 @@ class Solution {
 
         int [][] dp = new int[m][n];
 
-        dp[0][0] = 0; // total ways to reach from 0,0 to 0,0
+        dp[0][0] = 1; // total ways to reach from 0,0 to 0,0
 
         for(int col=1; col<n; col++){ // fill the 1st row
             dp[0][col] = 1;
