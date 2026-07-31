@@ -1,34 +1,35 @@
 class Solution {
-    int [][] dp;
-    public int solve(int row , int col , int [][] arr){
-        if(row < 0 || col < 0) // we don't get a valid path, don't count it
-            return 0;  
-            
-        if(arr[row][col] == 1) // we get a obstacle, go back, don't count it
-            return 0;   
-
-        if(row == 0 && col == 0) // we get a valid path , count it
-            return 1;
-         
-        if(dp[row][col] != -1)
-            return dp[row][col];
-
-        int up = solve(row-1 , col , arr);
-        int left = solve(row , col-1 , arr);
-
-        return dp[row][col] = up+left;    
-    }
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
         int m = obstacleGrid.length;
         int n = obstacleGrid[0].length;
 
-        dp = new int[m][n];
-        for(int i=0; i<m; i++)
-            Arrays.fill(dp[i] , -1);
+        // egde case : starting cell blocked
+        if(obstacleGrid[0][0] == 1)
+            return 0;
 
-        if(m==1 && n==1)
-            return obstacleGrid[0][0] == 0 ? 1 : 0;
+        int [][] dp = new int[m][n];
 
-        return solve(m-1 , n-1 , obstacleGrid);
+        dp[0][0] = 1; // total ways to reach from 0,0 to 0,0 is 1
+
+        for(int col=1; col<n; col++){ // fill the 1st row
+            if(obstacleGrid[0][col] == 1) break;
+            dp[0][col] = 1;
+        }
+
+        for(int row=1; row<m; row++){ // fill the 1st col
+            if(obstacleGrid[row][0] == 1) break;
+            dp[row][0] = 1;
+        }
+
+        for(int row=1; row<m; row++){
+            for(int col=1; col<n; col++){
+                if(obstacleGrid[row][col] == 1)
+                    dp[row][col] = 0;
+                else    
+                    dp[row][col] = dp[row-1][col] + dp[row][col-1];
+            }
+        }
+
+        return dp[m-1][n-1];
     }
 }
