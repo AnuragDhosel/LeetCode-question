@@ -137,6 +137,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0004-median-of-two-sorted-arrays](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0152-maximum-product-subarray) |
@@ -242,6 +243,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0032-longest-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0152-maximum-product-subarray) |
@@ -324,6 +326,7 @@ This repository contains my solutions to various LeetCode problems solved during
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1901-find-a-peak-element-ii) |
