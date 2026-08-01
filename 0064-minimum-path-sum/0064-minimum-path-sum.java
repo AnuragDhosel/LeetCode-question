@@ -1,18 +1,18 @@
 class Solution {
     long [][] dp;
     public long solve(int row , int col , int [][] nums){
-        if(row == 0 && col == 0)
+        if(row == 0 && col == 0)  // Base case: reached the starting cell
             return nums[0][0];
-        if(row < 0 || col < 0)
-            return Integer.MAX_VALUE;
+        if(row < 0 || col < 0) // Out of bounds -> treat as an invalid path
+            return Integer.MAX_VALUE;  // i take long bcz of this and sum after this
 
-        if(dp[row][col] != -1)
+        if(dp[row][col] != -1) // memorization
             return dp[row][col];
 
         long up = nums[row][col] + solve(row-1 , col , nums);
-        long down = nums[row][col] + solve(row , col-1 , nums);
+        long left = nums[row][col] + solve(row , col-1 , nums);
 
-        dp[row][col] = Math.min(up , down);
+        dp[row][col] = Math.min(up , left);
 
         return dp[row][col];
     }
