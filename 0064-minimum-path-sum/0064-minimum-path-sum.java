@@ -1,5 +1,5 @@
 class Solution {
-    int [][] dp;
+    long [][] dp;
     public long solve(int row , int col , int [][] nums){
         if(row == 0 && col == 0)
             return nums[0][0];
@@ -12,16 +12,16 @@ class Solution {
         long up = nums[row][col] + solve(row-1 , col , nums);
         long down = nums[row][col] + solve(row , col-1 , nums);
 
-        dp[row][col] = (int)Math.min(up , down);
+        dp[row][col] = Math.min(up , down);
 
-        return Math.min(up , down);
+        return dp[row][col];
     }
 
     public int minPathSum(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
 
-        dp = new int[m][n];
+        dp = new long[m][n];
         for(int i=0; i<m; i++)
             Arrays.fill(dp[i] , -1);
 
