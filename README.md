@@ -215,6 +215,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0102-binary-tree-level-order-traversal](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -233,6 +234,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0102-binary-tree-level-order-traversal](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -279,6 +281,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0410-split-array-largest-sum) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0875-koko-eating-bananas) |
