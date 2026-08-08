@@ -1,8 +1,8 @@
 class Solution {
     int [][] dp;
     public int solve(int idx , int target , int [] nums){
-        if(idx == 0)
-            return (target % nums[0] == 0) ? (target / nums[0]) : (int)1e9;
+        if(idx < 0)
+            return (target == 0) ? 0 : (int)1e9;
 
         if(dp[idx][target] != -1)
             return dp[idx][target];
