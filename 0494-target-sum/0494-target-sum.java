@@ -3,7 +3,7 @@ class Solution {
     // how many subarrays whose sum is target
     public int solve(int idx , int target , int [] arr){
         if(idx < 0)
-            return (0 == target) ? 1 : 0;
+            return (target == 0) ? 1 : 0;
 
         if(dp[idx][target] != -1)
             return dp[idx][target];
