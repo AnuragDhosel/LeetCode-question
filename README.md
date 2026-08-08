@@ -156,6 +156,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0410-split-array-largest-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0503-next-greater-element-ii) |
@@ -269,6 +270,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0322-coin-change](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0647-palindromic-substrings) |
 | [1463-cherry-pickup-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1463-cherry-pickup-ii) |
@@ -375,10 +377,12 @@ This repository contains my solutions to various LeetCode problems solved during
 | ------- |
 | [0322-coin-change](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0494-target-sum) |
 ## Quicksort
 |  |
 | ------- |
@@ -387,4 +391,8 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0322-coin-change) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
