@@ -61,6 +61,7 @@ This repository contains my solutions to various LeetCode problems solved during
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0242-valid-anagram) |
@@ -138,6 +139,7 @@ This repository contains my solutions to various LeetCode problems solved during
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0053-maximum-subarray) |
