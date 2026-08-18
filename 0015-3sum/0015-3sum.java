@@ -1,46 +1,38 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
-        HashSet<List<Integer>> set1 = new HashSet<>(); // to check dublicate
+        Arrays.sort(nums);
 
-// a + b + c = 0  =>  c = -(a+b)
-        for(int i=0; i<nums.length; i++){
+        int n = nums.length;
+        for(int i=0; i<n; i++){
+            if(i>0 && nums[i] == nums[i-1])
+                continue;
 
-            HashSet<Integer> set2 = new HashSet<>(); // check element have seen or not
-            for(int j=i+1; j<nums.length; j++){
+            int j = i+1;
+            int k = n-1;
+            while(j < k){ // after j < k , j replace with k
+                int sum = nums[i] + nums[j] + nums[k];
 
-                int third = -(nums[i] + nums[j]);
-                if(set2.contains(third)){
-                    ArrayList<Integer> list = new ArrayList<>();
-
-// store 3 element in sorted sothat set compare and can't store dublicate arraylist
-                    int max = Math.max(third , Math.max(nums[i] , nums[j]));
-                    int min = Math.min(third , Math.min(nums[i] , nums[j]));
-                    int mid = (nums[i] + nums[j] + third) - (max + min);
-
-                    list.add(min);
-                    list.add(mid);
-                    list.add(max);
-
-                    set1.add(list);
+                if(sum < 0){
+                    j++;
                 }
-                set2.add(nums[j]); // we have seen nums[j]
+                else if(sum > 0){
+                    k--;
+                }
+                else{ // sum == 0, we get ans
+                    List<Integer> list = new ArrayList<>();
+                    list.add(nums[i]);
+                    list.add(nums[j]);
+                    list.add(nums[k]);
+                    ans.add(list);
+
+                    j++;
+                    k--;
+                    while(j<k && nums[j] == nums[j-1]) j++;
+                    while(j<k && nums[k] == nums[k+1]) k--;
+                }
             }
         }
-
-        for(List<Integer> key : set1){
-            ans.add(key);
-        }
-
         return ans;
     }
 }
-
-// third = -(-1 + 0) = 1
-// set = 0
-// third = -(-1 + 1) = 0
-// set = 1 0
-// third = -(-1 + 2) = -1
-// set = 1 0 -1
-// third = -(-1 + -1) = 2
-// set = 1 0 -1 2
