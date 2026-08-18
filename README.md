@@ -110,6 +110,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0424-longest-repeating-character-replacement](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0567-permutation-in-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -167,6 +168,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0502-ipo](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0518-coin-change-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -281,6 +283,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0509-fibonacci-number](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0647-palindromic-substrings) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1143-longest-common-subsequence](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1463-cherry-pickup-ii) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1638-count-substrings-that-differ-by-one-character) |
@@ -307,6 +310,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0240-search-a-2d-matrix-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0410-split-array-largest-sum) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0875-koko-eating-bananas) |
@@ -320,11 +324,13 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0214-shortest-palindrome) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1392-longest-happy-prefix](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0214-shortest-palindrome) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1392-longest-happy-prefix](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1392-longest-happy-prefix) |
 ## Enumeration
 |  |
