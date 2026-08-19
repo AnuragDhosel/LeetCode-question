@@ -45,6 +45,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0459-repeated-substring-pattern) |
+| [0516-longest-palindromic-subsequence](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0680-valid-palindrome-ii) |
@@ -281,6 +282,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0416-partition-equal-subset-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0647-palindromic-substrings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0718-maximum-length-of-repeated-subarray) |
