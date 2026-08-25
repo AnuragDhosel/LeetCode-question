@@ -29,6 +29,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0020-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0091-decode-ways) |
@@ -204,6 +205,7 @@ This repository contains my solutions to various LeetCode problems solved during
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0044-wildcard-matching) |
 | [0409-longest-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0455-assign-cookies) |
@@ -227,6 +229,7 @@ This repository contains my solutions to various LeetCode problems solved during
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0231-power-of-two) |
@@ -271,6 +274,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0063-unique-paths-ii) |
