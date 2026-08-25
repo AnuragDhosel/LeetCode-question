@@ -30,6 +30,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0151-reverse-words-in-a-string) |
@@ -275,6 +276,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0063-unique-paths-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0152-maximum-product-subarray) |
