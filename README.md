@@ -66,6 +66,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [1657-determine-if-two-strings-are-close](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1657-determine-if-two-strings-are-close) |
 | [1668-maximum-repeating-substring](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1668-maximum-repeating-substring) |
 | [1768-merge-strings-alternately](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1768-merge-strings-alternately) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0438-find-all-anagrams-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
 | ------- |
