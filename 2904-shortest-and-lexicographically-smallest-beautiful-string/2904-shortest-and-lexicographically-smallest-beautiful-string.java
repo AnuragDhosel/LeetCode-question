@@ -20,6 +20,9 @@ class Solution {
                             ){
                             ans = curr;
                         }
+
+                        // Don't expand further
+                        break;
                     }
                 }
             }
