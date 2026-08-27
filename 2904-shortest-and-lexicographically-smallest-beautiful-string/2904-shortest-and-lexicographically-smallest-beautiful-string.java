@@ -1,31 +1,33 @@
 class Solution {
     public String shortestBeautifulSubstring(String s, int k) {
-        int n = s.length();
         String ans = "";
-    
-        for(int i=0; i<n; i++){
-            StringBuilder sb = new StringBuilder();
-            int count = 0;
+        int n = s.length();
 
-            for(int j=i; j<n; j++){
-                sb.append(s.charAt(j));
+        int left = 0 , right = 0;
+        int count = 0;
+        while(right < n){
+            if(s.charAt(right) == '1'){
+                count++;
 
-                if(s.charAt(j) == '1'){
-                    count++;
-
-                    if(count == k){
-                        String curr = sb.toString();
-                        if(ans == "" || ans.length() > curr.length() || 
-                            (ans.length() == curr.length() && curr.compareTo(ans) < 0)
-                            ){
-                            ans = curr;
-                        }
-
-                        // Don't expand further
-                        break;
+                if(count == k){
+                    // Remove leading zeros
+                    while(left < n && s.charAt(left) == '0'){
+                        left++;
                     }
+
+                    String curr = s.substring(left , right+1);
+
+                    if(ans.isEmpty() || ans.length() > curr.length() || 
+                    (ans.length() == curr.length() && curr.compareTo(ans) < 0)){
+                        ans = curr;
+                    }
+
+                    // remove starting 1
+                    left++;
+                    count--;
                 }
             }
+            right++;
         }
 
         return ans;
