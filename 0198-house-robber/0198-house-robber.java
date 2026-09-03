@@ -1,20 +1,23 @@
 class Solution {
     int [] dp;
-    public int solve(int [] nums , int i){
-        if(i >= nums.length) return 0;
+    public int solve(int idx , int [] nums){
+        if(idx < 0) return 0;
+        if(idx == 0) return nums[0];
 
-        if(dp[i] != -1) return dp[i];
+        if(dp[idx] != -1) 
+            return dp[idx];
 
-        int pick = solve(nums , i+2) + nums[i];
-        int skip = solve(nums , i+1);
+        int pick = solve(idx-2 , nums) + nums[idx];
+        int skip = solve(idx-1 , nums);
 
-        dp[i] = Math.max(pick , skip);
-        return dp[i];
+        dp[idx] = Math.max(pick , skip);
+        return dp[idx];
     }
     public int rob(int[] nums) {
-        dp = new int[nums.length + 1];
+        int n = nums.length;
+        dp = new int[n + 1];
         Arrays.fill(dp , -1);
 
-        return solve(nums , 0);
+        return solve(n-1 , nums);
     }
 }
