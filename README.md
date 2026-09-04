@@ -83,6 +83,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0451-sort-characters-by-frequency](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0567-permutation-in-string) |
+| [0740-delete-and-earn](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0740-delete-and-earn) |
 | [0859-buddy-strings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0859-buddy-strings) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1657-determine-if-two-strings-are-close) |
@@ -178,6 +179,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0518-coin-change-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -304,6 +306,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0583-delete-operation-for-two-strings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0647-palindromic-substrings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0740-delete-and-earn](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0746-min-cost-climbing-stairs) |
 | [1092-shortest-common-supersequence](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1143-longest-common-subsequence) |
