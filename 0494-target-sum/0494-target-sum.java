@@ -1,6 +1,6 @@
 class Solution {
     int [][] dp;
-    public int solve(int idx , int target , int [] arr){
+    public int countTargetSubseq(int idx , int target , int [] arr){
         if(idx < 0)
             return (target == 0) ? 1 : 0;
 
@@ -9,8 +9,8 @@ class Solution {
 
         int take = 0;
         if(arr[idx] <= target)
-            take = solve(idx-1 , target - arr[idx] , arr);
-        int notTake = solve(idx-1 , target , arr);
+            take = countTargetSubseq(idx-1 , target - arr[idx] , arr);
+        int notTake = countTargetSubseq(idx-1 , target , arr);
 
         dp[idx][target] = take + notTake;
         return dp[idx][target];
@@ -22,14 +22,14 @@ class Solution {
         for(int i=0; i<n; i++)
             total += nums[i];
 
-        // impossible to create
-        if(Math.abs(target) > total)
-            return 0;
+//impossible TC - math.abs bcz if we substract all element, then we can get negative element
+        if(Math.abs(target) > total) return 0;
 
         // suppose : target = diff , total = totalSum , S1 = realTarget
         // so , s1 = (target + sum)/2; represented as
         int realTarget = (target + total)/2;
 
+// impossible TC - realTarget is even,then how (target + total) is odd
         if((target + total) % 2 != 0) 
             return 0;
 
@@ -38,6 +38,6 @@ class Solution {
             Arrays.fill(dp[i] , -1);
         
         // so how many subarrays whose sum is target or realTarget
-        return solve(n-1 , realTarget , nums);
+        return countTargetSubseq(n-1 , realTarget , nums);
     }
 }
