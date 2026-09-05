@@ -1,9 +1,11 @@
 class Solution {
     int [][] dp;
+    int bigV = 1_000_000_000;
     public int solve(int idx , int target , int [] nums){
-        if(target == 0) return 0;
+        if(target == 0) 
+            return 0;
         if(idx == 0)
-            return (target % nums[0] == 0) ? (target / nums[0]) : (int)1e9;
+            return (target % nums[0] == 0) ? (target / nums[0]) : bigV;
 
         if(dp[idx][target] != -1)
             return dp[idx][target];
