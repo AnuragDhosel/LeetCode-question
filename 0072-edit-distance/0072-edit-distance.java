@@ -1,30 +1,26 @@
 class Solution {
     int [][] dp;
     public int solve(int i , int j , String s1 , String s2){
-        if(i < 0 && j < 0) // both string idx exhausted 
-            return 0;
-        if(i < 0) // s1's idx i exhausted -> rest s2 char need to insert
-            return j+1;
-        if(j < 0) // s2's idx j exhausted -> rest s1 char need to delete
-            return i+1;
-
-        // memorization
+        if(i < 0 && j < 0) return 0;
+        if(i < 0) return j+1;
+        if(j < 0) return i+1;
+        
         if(dp[i][j] != -1)
             return dp[i][j];
-            
-        if(s1.charAt(i) == s2.charAt(j)){ // if match both decrease
-            return dp[i][j] = 0 + solve(i-1 , j-1 , s1 , s2);
+
+        if(s1.charAt(i) == s2.charAt(j)){
+            dp[i][j] = solve(i-1 , j-1 , s1 , s2);
         }
         else{
-            int insert = 1 + solve(i , j-1 , s1 , s2); 
+            int insert = 1 + solve(i , j-1 , s1 , s2); // aage replace hogi 
             int delete = 1 + solve(i-1 , j , s1 , s2);
-            int replace = 1 + solve(i-1 , j-1 , s1 , s2);
+            int replace = 1 + solve(i-1 , j-1 , s1 , s2); // we get, and move 
 
             dp[i][j] = Math.min(insert , Math.min(delete , replace));
-            return dp[i][j];
         }
-    }
 
+        return dp[i][j];
+    }
     public int minDistance(String word1, String word2) {
         int n = word1.length();
         int m = word2.length();
