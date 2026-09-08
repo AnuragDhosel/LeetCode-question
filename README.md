@@ -156,6 +156,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0001-two-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0015-3sum) |
+| [0045-jump-game-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0055-jump-game) |
@@ -217,6 +218,7 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0410-split-array-largest-sum) |
@@ -290,6 +292,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0005-longest-palindromic-substring](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0062-unique-paths) |
