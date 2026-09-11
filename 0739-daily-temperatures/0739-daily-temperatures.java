@@ -1,24 +1,18 @@
 class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
-        Stack<Integer> st = new Stack<>(); // stack store index
-        HashMap<Integer , Integer> map = new HashMap<>();
+        Stack<Integer> st = new Stack<>();
+        int n = temperatures.length;
+        int [] ans = new int[n];
 
-        for(int i=0; i<temperatures.length; i++){
+        for(int i=0; i<n; i++){
             int ele = temperatures[i];
+
             while(!st.isEmpty() && ele > temperatures[st.peek()]){
-                int diff = i - st.peek();
-                map.put(st.pop() , diff);
+                ans[st.peek()] = i-st.peek();
+                st.pop();
             }
+
             st.push(i);
-        }
-
-        while(!st.isEmpty()){
-            map.put(st.pop() , 0);
-        }
-
-        int [] ans = new int[temperatures.length];
-        for(int i=0; i<temperatures.length; i++){
-            ans[i] = map.get(i);
         }
 
         return ans;
