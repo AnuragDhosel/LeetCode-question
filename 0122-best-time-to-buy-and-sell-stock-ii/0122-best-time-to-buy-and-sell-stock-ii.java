@@ -11,7 +11,7 @@ class Solution {
                 if(buy > prices[j]){
                     buy = prices[j];
                 }
-                if(buy < prices[j]){
+                else if(buy < prices[j]){
                     totalP += prices[j] - buy;
                     buy = prices[j];
                 }
