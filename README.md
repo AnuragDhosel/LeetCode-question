@@ -69,6 +69,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [1668-maximum-repeating-substring](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1668-maximum-repeating-substring) |
 | [1768-merge-strings-alternately](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1768-merge-strings-alternately) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +144,7 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0844-backspace-string-compare) |
+| [3498-reverse-degree-of-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
