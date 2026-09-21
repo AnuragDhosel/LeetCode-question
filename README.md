@@ -416,6 +416,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [1280-students-and-examinations](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1667-fix-names-in-a-table](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1667-fix-names-in-a-table) |
+| [1693-daily-leads-and-partners](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1729-find-followers-count) |
 ## Prefix Sum
 |  |
