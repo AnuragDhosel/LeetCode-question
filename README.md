@@ -420,6 +420,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [1667-fix-names-in-a-table](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1667-fix-names-in-a-table) |
 | [1693-daily-leads-and-partners](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1729-find-followers-count) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Prefix Sum
 |  |
 | ------- |
