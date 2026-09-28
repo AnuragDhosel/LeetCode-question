@@ -416,6 +416,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0596-classes-with-at-least-5-students](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0607-sales-person) |
 | [0627-swap-sex-of-employees](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0627-swap-sex-of-employees) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1280-students-and-examinations) |
