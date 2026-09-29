@@ -1,39 +1,28 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> ans = new ArrayList<>();
-        int size = 2*n;
         StringBuilder sb = new StringBuilder();
         
-        solve(sb , ans , size);
+        solve(sb , 0 , 0 , ans , n);
 
         return ans;
     }
-    public void solve(StringBuilder sb , List<String> list , int size){
-        if(sb.length() == size){
-            if(isValidparentheses(sb))
-                list.add(sb.toString());
-            return;
+    public void solve(StringBuilder sb , int open , int close , List<String> list , int n){
+        if(sb.length() == 2*n){
+            list.add(sb.toString());
         }
 
-        sb.append('(');
-        solve(sb , list , size);
-        sb.deleteCharAt(sb.length() - 1);
-
-        sb.append(')');
-        solve(sb , list , size);
-        sb.deleteCharAt(sb.length() - 1);
-    }
-    public boolean isValidparentheses(StringBuilder s){
-        int count = 0;
-        for(int i=0; i<s.length(); i++){
-            if(s.charAt(i) == '(')
-                count++;
-            else
-                count--;
-            if(count < 0) // ())(
-                return false;
+        if(open < n){
+            sb.append('(');
+            solve(sb , open+1 , close , list , n);
+            sb.deleteCharAt(sb.length() - 1);
         }
-
-        return (count == 0);
+        
+        if(close < open){
+            sb.append(')');
+            solve(sb , open , close+1 , list , n);
+            sb.deleteCharAt(sb.length() - 1);
+        }
+        
     }
 }
