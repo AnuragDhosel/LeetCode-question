@@ -421,6 +421,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [1075-project-employees-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1148-article-views-i) |
+| [1179-reformat-department-table](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1179-reformat-department-table) |
 | [1280-students-and-examinations](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1667-fix-names-in-a-table](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1667-fix-names-in-a-table) |
