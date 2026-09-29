@@ -2,21 +2,28 @@ class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> ans = new ArrayList<>();
         int size = 2*n;
-        solve("" , ans , size);
+        StringBuilder sb = new StringBuilder();
+        
+        solve(sb , ans , size);
 
         return ans;
     }
-    public void solve(String s , List<String> list , int size){
-        if(s.length() == size){
-            if(isValidparentheses(s))
-                list.add(s);
+    public void solve(StringBuilder sb , List<String> list , int size){
+        if(sb.length() == size){
+            if(isValidparentheses(sb))
+                list.add(sb.toString());
             return;
         }
 
-        solve(s + "(" , list , size);
-        solve(s + ")" , list , size);
+        sb.append('(');
+        solve(sb , list , size);
+        sb.deleteCharAt(sb.length() - 1);
+
+        sb.append(')');
+        solve(sb , list , size);
+        sb.deleteCharAt(sb.length() - 1);
     }
-    public boolean isValidparentheses(String s){
+    public boolean isValidparentheses(StringBuilder s){
         int count = 0;
         for(int i=0; i<s.length(); i++){
             if(s.charAt(i) == '(')
