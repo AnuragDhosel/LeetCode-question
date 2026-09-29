@@ -27,6 +27,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0006-zigzag-conversion](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0044-wildcard-matching) |
@@ -305,6 +306,7 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0045-jump-game-ii) |
@@ -483,6 +485,7 @@ This repository contains my solutions to various LeetCode problems solved during
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0494-target-sum) |
 ## Longest Common Subsequence
 |  |
@@ -493,5 +496,6 @@ This repository contains my solutions to various LeetCode problems solved during
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
