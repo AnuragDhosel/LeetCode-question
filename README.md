@@ -173,6 +173,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0063-unique-paths-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -449,6 +450,7 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -486,6 +488,7 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0494-target-sum) |
 ## Longest Common Subsequence
 |  |
