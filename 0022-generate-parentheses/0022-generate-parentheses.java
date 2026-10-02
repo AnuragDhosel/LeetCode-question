@@ -12,12 +12,14 @@ class Solution {
             list.add(sb.toString());
         }
 
+        // take open bracket
         if(open < n){
             sb.append('(');
             solve(sb , open+1 , close , list , n);
             sb.deleteCharAt(sb.length() - 1);
         }
         
+        // take close bracket 
         if(close < open){
             sb.append(')');
             solve(sb , open , close+1 , list , n);
