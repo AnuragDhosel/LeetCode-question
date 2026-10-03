@@ -1,9 +1,8 @@
 class Solution {
     public int longestValidParentheses(String s) {
-        Stack<Integer> st = new Stack<>(); // store index
-        HashMap<Integer , Integer> map = new HashMap<>(); // store ( => idx , ) => idx
-        
-        // store in hashmap
+        Stack<Integer> st = new Stack<>();
+        HashMap<Integer , Integer> map = new HashMap<>();
+
         for(int i=0; i<s.length(); i++){
             char c = s.charAt(i);
 
@@ -16,28 +15,26 @@ class Solution {
             }
         }
 
-        while(!st.isEmpty()){
+        while(!st.isEmpty())
             map.put(st.pop() , -1);
-        }
-        
+
         for(int key : map.keySet()){
-            System.out.println(key + " " + map.get(key));
+            System.out.println(key + " -> " + map.get(key));
         }
 
         int count = 0;
-        int maxCount = 0;
+        int ans = 0;
         for(int i=0; i<s.length(); i++){
             if(map.containsKey(i)){
                 if(map.get(i) != -1){
                     count += 2;
-                    maxCount = Math.max(maxCount , count);
+                    ans = Math.max(count , ans);
                 }
-                else if(map.get(i) == -1){
+                else  // map.get(i) == -1
                     count = 0;
-                }
             }
         }
 
-        return maxCount;
+        return ans;
     }
 }
