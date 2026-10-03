@@ -18,10 +18,6 @@ class Solution {
         while(!st.isEmpty())
             map.put(st.pop() , -1);
 
-        for(int key : map.keySet()){
-            System.out.println(key + " -> " + map.get(key));
-        }
-
         int count = 0;
         int ans = 0;
         for(int i=0; i<s.length(); i++){
