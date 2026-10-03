@@ -503,5 +503,6 @@ This repository contains my solutions to various LeetCode problems solved during
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
