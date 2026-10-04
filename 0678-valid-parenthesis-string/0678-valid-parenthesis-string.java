@@ -14,13 +14,14 @@ class Solution {
         boolean isValid = false;
         if(s.charAt(i) == '*'){
             isValid = isValid || solve(i+1 , open+1 , close , s); // * -> (
-            isValid = isValid || solve(i+1 , open , close+1 , s); // * -> )
+            if(open > 0)
+                isValid = isValid || solve(i+1 , open , close+1 , s); // * -> )
             isValid = isValid || solve(i+1 , open , close , s);   // * -> ""
         }
         else if(s.charAt(i) == '('){
             isValid = isValid || solve(i+1 , open+1 , close , s);
         }
-        else{   // if(s.charAt(i) == ')')
+        else if(open > 0){   // if(s.charAt(i) == ')')
             isValid = isValid || solve(i+1 , open , close+1 , s);
         }
 
