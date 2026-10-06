@@ -60,6 +60,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0796-rotate-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0859-buddy-strings) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1092-shortest-common-supersequence](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1143-longest-common-subsequence) |
@@ -143,6 +144,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0678-valid-parenthesis-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
@@ -245,6 +247,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0678-valid-parenthesis-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0767-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
@@ -511,5 +514,6 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0022-generate-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
