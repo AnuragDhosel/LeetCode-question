@@ -61,6 +61,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0844-backspace-string-compare](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0859-buddy-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1092-shortest-common-supersequence](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1143-longest-common-subsequence) |
@@ -145,6 +146,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0739-daily-temperatures](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
@@ -516,5 +518,6 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0032-longest-valid-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
