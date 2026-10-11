@@ -218,6 +218,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2187-minimum-time-to-complete-trips) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2951-find-the-peaks) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnuragDhosel/LeetCode-question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/3875-construct-uniform-parity-array-i) |
@@ -403,6 +404,7 @@ This repository contains my solutions to various LeetCode problems solved during
 |  |
 | ------- |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1638-count-substrings-that-differ-by-one-character) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2951-find-the-peaks) |
 ## Breadth-First Search
 |  |
