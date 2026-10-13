@@ -109,6 +109,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0767-reorganize-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0767-reorganize-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1657-determine-if-two-strings-are-close) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AnuragDhosel/LeetCode-question/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Queue
 |  |
 | ------- |
@@ -221,6 +222,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2951-find-the-peaks) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnuragDhosel/LeetCode-question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AnuragDhosel/LeetCode-question/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/3903-smallest-stable-index-i) |
@@ -253,6 +255,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0767-reorganize-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AnuragDhosel/LeetCode-question/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
