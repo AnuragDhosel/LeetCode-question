@@ -1,32 +1,30 @@
 class Solution {
-    public List<List<Integer>> subsetsWithDup(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> list = new ArrayList<>();
-        HashSet<List> set = new HashSet<>();
+    List<List<Integer>> ans = new ArrayList<>();
 
-        Arrays.sort(nums);
-        helper(nums , 0 , list , ans , set);
-        return ans;
-    }
-    public void helper(int [] nums , int idx , List<Integer> subset , List<List<Integer>> ans, HashSet<List> set){
-
-        if(idx == nums.length){
-            if(!set.contains(subset)){
-                set.add(new ArrayList<>(subset));
-                ans.add(new ArrayList<>(subset));
-            } 
+    public void helper(int i , int [] arr , List<Integer> temp , HashSet<List<Integer>> set){
+        if(i == arr.length){
+            if(!set.contains(temp)){
+                set.add(new ArrayList<>(temp));
+                ans.add(new ArrayList<>(temp));
+            }
             return;
         }
-        
-        // include
-        subset.add(nums[idx]);
-        helper(nums , idx+1 , subset , ans , set);
 
-        // exclude
-        subset.remove(subset.size() - 1);
-        helper(nums , idx+1 , subset , ans , set);
+        // take
+        temp.add(arr[i]);
+        helper(i+1 , arr , temp , set);
+        temp.remove(temp.size() - 1);
+
+        // skip
+        helper(i+1 , arr , temp , set);
+    }
+    public List<List<Integer>> subsetsWithDup(int[] nums) {
+        List<Integer> temp = new ArrayList<>();
+        HashSet<List<Integer>> set = new HashSet<>();
+
+        Arrays.sort(nums);
+        helper(0 , nums , temp , set);
+
+        return ans;
     }
 }
-
-/*
-*/
