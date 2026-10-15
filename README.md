@@ -96,6 +96,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0859-buddy-strings](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0859-buddy-strings) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1657-determine-if-two-strings-are-close) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
 |  |
 | ------- |
@@ -220,6 +221,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [2187-minimum-time-to-complete-trips](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2187-minimum-time-to-complete-trips) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2951-find-the-peaks](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2951-find-the-peaks) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnuragDhosel/LeetCode-question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnuragDhosel/LeetCode-question/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -527,4 +529,12 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
