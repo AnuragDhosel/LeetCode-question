@@ -109,6 +109,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [0502-ipo](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/AnuragDhosel/LeetCode-question/tree/master/0767-reorganize-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1657-determine-if-two-strings-are-close) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnuragDhosel/LeetCode-question/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Queue
@@ -219,6 +220,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [1901-find-a-peak-element-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1901-find-a-peak-element-ii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2187-minimum-time-to-complete-trips) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -393,6 +395,7 @@ This repository contains my solutions to various LeetCode problems solved during
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/AnuragDhosel/LeetCode-question/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/AnuragDhosel/LeetCode-question/tree/master/2187-minimum-time-to-complete-trips) |
 ## Rolling Hash
 |  |
